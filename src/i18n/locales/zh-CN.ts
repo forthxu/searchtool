@@ -15,7 +15,7 @@ export default {
       postCode: '邮政编码',
     },
     zodiac: {
-      title: '星座与农历查询',
+      title: '星座查询',
       monthPlaceholder: '月',
       dayPlaceholder: '日',
       sign: '星座',
